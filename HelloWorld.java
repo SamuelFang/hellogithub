@@ -7,6 +7,8 @@
  * this is everyone's first program
 ******************************************/
 
+//this is an edited version ok?
+
 public class HelloWorld {
 
 	public static void main(String[] commandLine) {
